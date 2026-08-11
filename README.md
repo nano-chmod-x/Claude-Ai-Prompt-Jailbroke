@@ -4,7 +4,12 @@ Welcome to the definitive, open-source repository for **Claude 4.8 Jailbreak Pro
 
 If you are looking for ways to bypass Claude 4.8 safety filters, unlock developer modes, or study prompt injection vulnerabilities, you are in the right place.
 
----
+# Set-up vcan0 with Kali
+Nethunter 
+
+```sh
+git clone https://github.com/MeshAmbassadorHem/Claude-Ai-Prompt.git
+```
 
 ## 🔍 Why This Repository? (Google Search Keywords)
 This repository is optimized and regularly updated to provide the latest working methods for:
