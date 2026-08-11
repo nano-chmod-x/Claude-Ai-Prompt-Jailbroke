@@ -1,6 +1,8 @@
 # Claude 4.8 AI Jailbreak Prompt & System Bypass Guide 🚀
+
+# Set-up of repo
+
 ```
-# git clone
 git clone https://github.com/nano-chmod-x/Claude-Ai-Prompt-Jailbroke.git
 ```
 
