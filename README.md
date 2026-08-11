@@ -1,5 +1,10 @@
 # Claude 4.8 AI Jailbreak Prompt & System Bypass Guide 🚀
 
+# git clone
+git clone https://github.com/nano-chmod-x/Claude-Ai-Prompt-Jailbroke.git
+
+
+
 Welcome to the definitive, open-source repository for **Claude 4.8 Jailbreak Prompts**, **System Prompt Bypasses**, and **AI Red-Teaming methodologies**. This project is dedicated to exploring the boundaries of Anthropic's Claude 4.8 Large Language Model (LLM) for educational, research, and safety testing purposes.
 
 If you are looking for ways to bypass Claude 4.8 safety filters, unlock developer modes, or study prompt injection vulnerabilities, you are in the right place.
