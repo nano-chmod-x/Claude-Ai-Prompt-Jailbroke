@@ -1,0 +1,5 @@
+export ANTHROPIC_API_KEY="$(
+  gcloud secrets versions access latest \
+    --secret="myapp-api-key" \
+    --project="YOUR_GCP_PROJECT_ID"
+)"

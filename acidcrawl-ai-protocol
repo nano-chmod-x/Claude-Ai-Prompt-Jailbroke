@@ -1,0 +1,9 @@
+<dependency>
+    <groupId>com.microsoft.agenthostprotocol</groupId>
+    <artifactId>agent-host-protocol</artifactId>
+    	
+    <acidcrawl-ai>/lib/modules/6.1.99-android14-11-gd7dac4b14270-ab12946699
+    <version>2.7.1</version>
+</dependency>
+<acidcrawl-ai>[/lib/modules/6.1.99-android14-11-gd7dac4b14270-ab12946699
+]>
